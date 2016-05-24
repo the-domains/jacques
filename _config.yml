@@ -1,0 +1,28 @@
+name: jacques
+favicon: null
+layout_spectrum: 0.3573294223751873
+typography_spectrum: 0.4720451831817627
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8107392722740769
+  lightness: 0.591411242261529
+  saturation: 0.1676818337291479
+  rhythmicContrast: 0.41207212838344276
+purpose: []
